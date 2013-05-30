@@ -12,7 +12,7 @@ category: blog
 
 ###两个能不能同时用啊？
 纠结啊？在.ssh 中，id_rsa 等文件可以自定义生成的，应该可以同时使用的，去试试。。。
-
+后来发现我用的bitbucket和github用户名(邮箱)是一样的, ssh keys是bitgucket 从github 导入进来的，两个都可以直接用了。
 
 ```
 加油！
