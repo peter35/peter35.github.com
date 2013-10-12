@@ -2,7 +2,7 @@
 layout: post
 title: 拥抱百度开放平台
 description: 谈使用云推送、云存储
-category: blog2
+category: blog
 ---
 
 # [{{ page.title }}][1]
