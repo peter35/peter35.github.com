@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 购彩宝
+title: 购彩宝-双色球
 description: 用户使用说明
 category: blog
 ---
