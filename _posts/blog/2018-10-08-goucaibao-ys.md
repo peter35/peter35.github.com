@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 购彩宝-双色球
+title: 购彩宝-隐私政策
 description: 用户使用说明
 category: blog
 ---
@@ -34,5 +34,6 @@ a)在使用本软件网络服务进行网上交易时，您不可避免的要向
 ***
 
 
-#####邮箱：peteryu35@qq.com
-#####QQ：363712947
+邮箱：peteryu35@qq.com
+
+QQ：363712947
